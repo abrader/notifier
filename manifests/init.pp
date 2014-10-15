@@ -1,3 +1,3 @@
 class notifier {
-  notify { "Hey, this is the production branch!" : }
+  notify { "Hey, this is the true production branch!" : }
 }
